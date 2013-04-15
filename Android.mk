@@ -33,7 +33,7 @@ RECOVERY_NAME := ClockworkMod Recovery
 LOCAL_CFLAGS += -DI_AM_KOUSH
 else
 ifndef RECOVERY_NAME
-RECOVERY_NAME :=AK团队中文恢复系统
+RECOVERY_NAME :=AK团队中文恢复系统By:Ruling
 endif
 endif
 
